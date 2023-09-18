@@ -1,15 +1,10 @@
 Relative GIT Repository,Layer subdirectory in repository,Tag/Branch to checkout in develop MSC-LDK branch
-thirdparty/yocto,meta,hardknott-5.10.35-2.0.0-msc
-thirdparty/meta-freescale,,hardknott-5.10.35-2.0.0
-thirdparty/meta-freescale-distro,,hardknott-5.10.35-2.0.0
-thirdparty/meta-imx,meta-bsp,hardknott-5.10.35-2.0.0-msc
-thirdparty/meta-imx,meta-sdk,hardknott-5.10.35-2.0.0-msc
-thirdparty/meta-qt5,,hardknott-imx-5.10.35-2.0.0
-thirdparty/meta-nxp-demo-experience,,hardknott-5.10.35-2.0.0
-msc_ol99/meta-msc-arm-extensions,,
-msc_ol99/meta-msc-ldk-marvell,,
-thirdparty/meta-openembedded,meta-oe,hardknott-imx-5.10.35-2.0.0-msc
-thirdparty/meta-openembedded,meta-networking,hardknott-imx-5.10.35-2.0.0-msc
-thirdparty/meta-openembedded,meta-python,hardknott-imx-5.10.35-2.0.0-msc
-thirdparty/meta-openembedded,meta-multimedia,hardknott-imx-5.10.35-2.0.0-msc
-thirdparty/meta-openembedded,meta-gnome,hardknott-imx-5.10.35-2.0.0-msc
+meta-qt5,,renesas-3.0.0-msc
+meta-virtualization,,renesas-3.0.0-msc
+meta-rz-features,,renesas-3.0.0-msc
+meta-renesas,,renesas-3.0.0-msc
+meta-openembedded,meta-networking,renesas-3.0.0-msc
+meta-openembedded,meta-python,renesas-3.0.0-msc
+meta-openembedded,meta-oe,renesas-3.0.0-msc
+meta-openembedded,meta-multimedia,renesas-3.0.0-msc
+meta-openembedded,meta-filesystems,renesas-3.0.0-msc
